@@ -22,7 +22,7 @@ jib {
 		ports = ['8080/tcp']
 	}
 }
-jib.to.image = 'tokuhirom/jib-demo-app'
+jib.to.image = 'tokuhirom/jib-demo-app1'
 
 apply plugin: 'java'
 apply plugin: 'org.springframework.boot'
